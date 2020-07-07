@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+# Uboot
+
+![alt text](/assets/images/uboot_large.svg "An Uboot conquering the deep sea.")
+
+## {{ site.mantra }}
