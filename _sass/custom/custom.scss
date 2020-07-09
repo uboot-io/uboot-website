@@ -1,7 +1,11 @@
 .uboot-master-image {
   position: relative;
   left: -32px;
-  right: -32px;
+
+  img {
+    width: calc(100% + 64px);
+    max-width: calc(100% + 64px);
+  }
 }
 .uboot-master-mantra {
   font-size: 2rem;
