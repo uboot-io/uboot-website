@@ -21,7 +21,7 @@
 title: uboot.io
 email: contact@uboot.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Delightful distributed Messaging and State Management for JavaScript and TypeScript.
+  Uboot - Delightful distributed Messaging and State Management for JavaScript and TypeScript.
 mantra: Conquer the deep sea.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://uboot.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -56,3 +56,6 @@ plugins:
 #   - vendor/ruby/
 
 color_scheme: uboot
+
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/uboot_logo_tiny_text.png"

@@ -7,6 +7,12 @@ layout: home
 
 # Uboot
 
-![alt text](/assets/images/uboot_large.svg "An Uboot conquering the deep sea.")
+![alt text](/assets/images/uboot_master.svg "An Uboot conquering the deep sea.")
+{:.uboot-master-image }
 
-## {{ site.mantra }}
+*{{ site.mantra }}*
+{:.uboot-master-mantra }
+
+{{ site.description }}
+
+**Coming soon.**
