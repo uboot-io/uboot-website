@@ -16,3 +16,7 @@ layout: home
 {{ site.description }}
 
 **Coming soon.**
+
+Meanwhile track the progress on GitHub...
+
+<a href="https://github.com/uboot-io/uboot">https://github.com/uboot-io/uboot</a>
